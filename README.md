@@ -42,7 +42,6 @@ Each record in the datasets is associated with an **`experiment`** number.
 This column uniquely identifies experiments across both the **5G metrics** and **QoE** files.
 
 **Example:**
-```text
 If experiment = 3 in mobility-x.csv  
 Then the corresponding QoE logs can be found in mobility-x-QoE.csv where experiment = 3
 
