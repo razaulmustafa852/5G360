@@ -32,7 +32,7 @@ Data was collected at **1-second intervals**.
   - Total experiments: **25**  
     - **10** with Operator X  
     - **15** with Operator Y  
-  - All experiments are stored in `mobility-x.csv` and `mobility-y.csv` with their corresponding QoE in `mobility-x-QoE.csv` and `mobility-y.csv`
+  - All experiments are stored in `mobility-x.csv` and `mobility-y.csv` with their corresponding QoE in `mobility-x-QoE.csv` and `mobility-y-QoE.csv`
 
 ---
 
