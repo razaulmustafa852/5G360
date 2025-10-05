@@ -45,3 +45,25 @@ This column uniquely identifies experiments across both the **5G metrics** and *
 If experiment = 3 in mobility-x.csv  
 Then the corresponding QoE logs can be found in mobility-x-QoE.csv where experiment = 3
 
+## 🧠 Citation
+
+If you use this dataset, please cite the following paper:
+
+> **Raza Ul Mustafa**  
+> *Mobile 360° Video QoE: Empirical Analysis of 5G QoS Metrics*  
+> In *Proceedings of the 28th International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2025)*,  
+> **Barcelona, Spain**, 2025.
+
+---
+
+### 📄 BibTeX
+For convenience, you can cite this work using the following BibTeX entry:
+
+```bibtex
+@inproceedings{mustafa2025mobile360,
+  author    = {Raza Ul Mustafa},
+  title     = {Mobile 360° Video QoE: Empirical Analysis of 5G QoS Metrics},
+  booktitle = {Proceedings of the 28th International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM 2025)},
+  year      = {2025},
+  address   = {Barcelona, Spain}
+}
